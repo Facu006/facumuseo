@@ -1,0 +1,2 @@
+0 Con luz
+1 Sin luz
